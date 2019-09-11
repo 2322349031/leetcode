@@ -1,5 +1,5 @@
 '''
-ac
+ac 并查集
 '''
 class Solution:
     def minMalwareSpread(self, graph, initial):
